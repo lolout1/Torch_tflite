@@ -9,7 +9,7 @@ Ensure that the PyTorch model is in an exportable format  (.export()) with any c
 Then
 
 - Define your model artitechture and set to eval. 
-- load weights
+- load weights (make sure strict=True)
 - create wrapper if needed 
 <img width="533" alt="image" src="https://github.com/user-attachments/assets/e5c29f79-580c-474e-b742-4ec1dacff318">
 
