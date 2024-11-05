@@ -13,5 +13,8 @@ Then
 - create wrapper if needed 
 <img width="533" alt="image" src="https://github.com/user-attachments/assets/e5c29f79-580c-474e-b742-4ec1dacff318">
 
-- use ai_edge_torch.convert()
+- use ai_edge_torch.convert() to convert wrapped model to edge model
+- Use edge_model.export() to convert to tflite
 - debug any errors using the documentation https://github.com/google-ai-edge/ai-edge-torch/blob/c9973d2e7423e86f420576c0e5cac1181f79ac0e/docs/pytorch_converter/README.md
+
+Example notebook included in repository. 
