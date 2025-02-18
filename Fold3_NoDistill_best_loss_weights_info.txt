@@ -1,0 +1,10 @@
+Fold: Fold3
+PHASE: NoDistill (lowest loss)
+Epoch: 23
+val_loss: 0.2648
+val_acc: 92.10
+val_f1: 91.94
+val_prec: 92.14
+val_rec: 91.78
+
+Training Args: Namespace(config='./config/smartfallmm/distill_student.yaml', dataset='smartfallmm', subjects=[29, 30, 31, 32, 33, 44, 45, 46, 34, 35, 36, 37, 38, 39, 43], dataset_args={'mode': 'variable_time', 'task': 'fd', 'modalities': ['accelerometer', 'skeleton'], 'age_group': ['young'], 'sensors': ['watch'], 'window_size_sec': 4.0, 'stride_sec': 1.0}, batch_size=16, test_batch_size=16, val_batch_size=16, num_epoch=75, start_epoch=0, optimizer='adam', base_lr=0.001, weight_decay=0.0004, teacher_model='Models.master_t3.TransformerTeacher', teacher_args={'num_joints': 32, 'joint_dim': 3, 'hidden_skel': 128, 'hidden_accel': 128, 'accel_heads': 4, 'accel_layers': 4, 'skeleton_heads': 4, 'skeleton_layers': 4, 'time2vec_dim': 16, 'fusion_hidden': 256, 'num_classes': 2, 'dropout': 0.3, 'dim_feedforward': 256}, teacher_weight_dir='exps/teacher_var_time4', student_model='Models.fall_time2vec_transformer_feat.FallTime2VecTransformer', student_args={'feat_dim': 19, 'd_model': 64, 'nhead': 4, 'num_layers': 3, 'num_classes': 2, 'time2vec_dim': 16, 'dropout': 0.1, 'dim_feedforward': 128}, model='torch.nn.Module', model_args={}, distill_args={}, include_val=True, phase='train', device=[0], seed=2, work_dir='exps/teacher_var_time4', print_log=True, num_worker=0, result_file=None, model_saved_name='student_distilled')
