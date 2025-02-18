@@ -1,0 +1,990 @@
+[INFO] Building val dataset using subjects=[45]
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T03.csv' from 0.000 to 4.000: only 3 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T03.csv' from 1.000 to 5.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T03.csv' from 2.000 to 6.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T03.csv' from 3.000 to 7.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T03.csv' from 4.000 to 8.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T03.csv' from 5.000 to 9.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T03.csv' from 6.000 to 10.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T03.csv' from 7.000 to 11.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T03.csv' from 8.000 to 12.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file 2025-02-18 07:05:19,569 INFO: Assets written to: /tmp/tmprg2qtqyl/assets
+2025-02-18 07:05:41,558 INFO: Assets written to: /tmp/tmpn3cuadx2/assets
+ Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T03.csv' from 10.000 to 14.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T03.csv' from 11.000 to 15.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T03.csv' from 12.000 to 16.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T03.csv' from 13.000 to 17.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T03.csv' from 14.000 to 18.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T03.csv' from 15.000 to 19.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T03.csv' from 16.000 to 20.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T03.csv' from 17.000 to 21.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T03.csv' from 18.000 to 22.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T03.csv' from 19.000 to 23.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T03.csv' from 20.000 to 24.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T03.csv' from 21.000 to 25.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T03.csv' from 22.000 to 26.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T03.csv' from 23.000 to 27.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T03.csv' from 24.000 to 28.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T03.csv' from 25.000 to 29.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T03.csv' from 26.000 to 30.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T03.csv' from 27.000 to 31.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T03.csv' from 28.000 to 32.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T03.csv' from 29.000 to 33.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T03.csv' from 30.000 to 34.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T03.csv' from 31.000 to 35.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T03.csv' from 32.000 to 36.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T03.csv' from 33.000 to 37.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T03.csv' from 34.000 to 38.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T03.csv' from 35.000 to 39.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T03.csv' from 36.000 to 40.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T03.csv' from 37.000 to 41.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T03.csv' from 38.000 to 42.000: only 52 samples (required 128).
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T03.csv' from 39.000 to 43.000: original samples = 156, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T03.csv' from 40.000 to 44.000: original samples = 259, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T03.csv' from 41.000 to 45.000: original samples = 364, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T03.csv' from 42.000 to 46.000: original samples = 418, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T03.csv' from 43.000 to 47.000: original samples = 382, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T03.csv' from 44.000 to 48.000: original samples = 331, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T03.csv' from 45.000 to 49.000: original samples = 279, subsampled to 128.
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T05.csv' from 0.000 to 4.000: only 3 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T05.csv' from 1.000 to 5.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T05.csv' from 2.000 to 6.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T05.csv' from 3.000 to 7.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T05.csv' from 4.000 to 8.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T05.csv' from 5.000 to 9.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T05.csv' from 6.000 to 10.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T05.csv' from 7.000 to 11.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T05.csv' from 8.000 to 12.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T05.csv' from 9.000 to 13.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T05.csv' from 10.000 to 14.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T05.csv' from 11.000 to 15.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T05.csv' from 12.000 to 16.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T05.csv' from 13.000 to 17.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T05.csv' from 14.000 to 18.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T05.csv' from 15.000 to 19.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T05.csv' from 16.000 to 20.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T05.csv' from 17.000 to 21.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T05.csv' from 18.000 to 22.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T05.csv' from 19.000 to 23.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T05.csv' from 20.000 to 24.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T05.csv' from 21.000 to 25.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T05.csv' from 22.000 to 26.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T05.csv' from 23.000 to 27.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T05.csv' from 24.000 to 28.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T05.csv' from 25.000 to 29.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T05.csv' from 26.000 to 30.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T05.csv' from 27.000 to 31.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T05.csv' from 28.000 to 32.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T05.csv' from 29.000 to 33.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T05.csv' from 30.000 to 34.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T05.csv' from 31.000 to 35.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T05.csv' from 32.000 to 36.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T05.csv' from 33.000 to 37.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T05.csv' from 34.000 to 38.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T05.csv' from 35.000 to 39.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T05.csv' from 36.000 to 40.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T05.csv' from 37.000 to 41.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T05.csv' from 38.000 to 42.000: only 52 samples (required 128).
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T05.csv' from 39.000 to 43.000: original samples = 156, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T05.csv' from 40.000 to 44.000: original samples = 259, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T05.csv' from 41.000 to 45.000: original samples = 364, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T05.csv' from 42.000 to 46.000: original samples = 418, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T05.csv' from 43.000 to 47.000: original samples = 382, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T05.csv' from 44.000 to 48.000: original samples = 331, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T05.csv' from 45.000 to 49.000: original samples = 279, subsampled to 128.
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T04.csv' from 0.000 to 4.000: only 3 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T04.csv' from 1.000 to 5.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T04.csv' from 2.000 to 6.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T04.csv' from 3.000 to 7.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T04.csv' from 4.000 to 8.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T04.csv' from 5.000 to 9.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T04.csv' from 6.000 to 10.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T04.csv' from 7.000 to 11.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T04.csv' from 8.000 to 12.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T04.csv' from 9.000 to 13.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T04.csv' from 10.000 to 14.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T04.csv' from 11.000 to 15.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T04.csv' from 12.000 to 16.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T04.csv' from 13.000 to 17.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T04.csv' from 14.000 to 18.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T04.csv' from 15.000 to 19.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T04.csv' from 16.000 to 20.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T04.csv' from 17.000 to 21.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T04.csv' from 18.000 to 22.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T04.csv' from 19.000 to 23.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T04.csv' from 20.000 to 24.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T04.csv' from 21.000 to 25.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T04.csv' from 22.000 to 26.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T04.csv' from 23.000 to 27.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T04.csv' from 24.000 to 28.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T04.csv' from 25.000 to 29.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T04.csv' from 26.000 to 30.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T04.csv' from 27.000 to 31.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T04.csv' from 28.000 to 32.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T04.csv' from 29.000 to 33.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T04.csv' from 30.000 to 34.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T04.csv' from 31.000 to 35.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T04.csv' from 32.000 to 36.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T04.csv' from 33.000 to 37.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T04.csv' from 34.000 to 38.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T04.csv' from 35.000 to 39.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T04.csv' from 36.000 to 40.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T04.csv' from 37.000 to 41.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T04.csv' from 38.000 to 42.000: only 52 samples (required 128).
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T04.csv' from 39.000 to 43.000: original samples = 156, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T04.csv' from 40.000 to 44.000: original samples = 259, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T04.csv' from 41.000 to 45.000: original samples = 364, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T04.csv' from 42.000 to 46.000: original samples = 418, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T04.csv' from 43.000 to 47.000: original samples = 382, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T04.csv' from 44.000 to 48.000: original samples = 331, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T04.csv' from 45.000 to 49.000: original samples = 279, subsampled to 128.
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T05.csv' from 0.000 to 4.000: only 3 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T05.csv' from 1.000 to 5.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T05.csv' from 2.000 to 6.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T05.csv' from 3.000 to 7.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T05.csv' from 4.000 to 8.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T05.csv' from 5.000 to 9.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T05.csv' from 6.000 to 10.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T05.csv' from 7.000 to 11.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T05.csv' from 8.000 to 12.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T05.csv' from 9.000 to 13.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T05.csv' from 10.000 to 14.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T05.csv' from 11.000 to 15.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T05.csv' from 12.000 to 16.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T05.csv' from 13.000 to 17.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T05.csv' from 14.000 to 18.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T05.csv' from 15.000 to 19.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T05.csv' from 16.000 to 20.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T05.csv' from 17.000 to 21.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T05.csv' from 18.000 to 22.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T05.csv' from 19.000 to 23.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T05.csv' from 20.000 to 24.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T05.csv' from 21.000 to 25.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T05.csv' from 22.000 to 26.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T05.csv' from 23.000 to 27.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T05.csv' from 24.000 to 28.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T05.csv' from 25.000 to 29.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T05.csv' from 26.000 to 30.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T05.csv' from 27.000 to 31.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T05.csv' from 28.000 to 32.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T05.csv' from 29.000 to 33.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T05.csv' from 30.000 to 34.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T05.csv' from 31.000 to 35.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T05.csv' from 32.000 to 36.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T05.csv' from 33.000 to 37.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T05.csv' from 34.000 to 38.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T05.csv' from 35.000 to 39.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T05.csv' from 36.000 to 40.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T05.csv' from 37.000 to 41.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T05.csv' from 38.000 to 42.000: only 52 samples (required 128).
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T05.csv' from 39.000 to 43.000: original samples = 156, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T05.csv' from 40.000 to 44.000: original samples = 259, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T05.csv' from 41.000 to 45.000: original samples = 364, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T05.csv' from 42.000 to 46.000: original samples = 418, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T05.csv' from 43.000 to 47.000: original samples = 382, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T05.csv' from 44.000 to 48.000: original samples = 331, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T05.csv' from 45.000 to 49.000: original samples = 279, subsampled to 128.
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T05.csv' from 0.000 to 4.000: only 3 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T05.csv' from 1.000 to 5.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T05.csv' from 2.000 to 6.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T05.csv' from 3.000 to 7.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T05.csv' from 4.000 to 8.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T05.csv' from 5.000 to 9.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T05.csv' from 6.000 to 10.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T05.csv' from 7.000 to 11.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T05.csv' from 8.000 to 12.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T05.csv' from 9.000 to 13.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T05.csv' from 10.000 to 14.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T05.csv' from 11.000 to 15.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T05.csv' from 12.000 to 16.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T05.csv' from 13.000 to 17.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T05.csv' from 14.000 to 18.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T05.csv' from 15.000 to 19.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T05.csv' from 16.000 to 20.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T05.csv' from 17.000 to 21.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T05.csv' from 18.000 to 22.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T05.csv' from 19.000 to 23.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T05.csv' from 20.000 to 24.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T05.csv' from 21.000 to 25.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T05.csv' from 22.000 to 26.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T05.csv' from 23.000 to 27.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T05.csv' from 24.000 to 28.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T05.csv' from 25.000 to 29.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T05.csv' from 26.000 to 30.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T05.csv' from 27.000 to 31.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T05.csv' from 28.000 to 32.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T05.csv' from 29.000 to 33.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T05.csv' from 30.000 to 34.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T05.csv' from 31.000 to 35.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T05.csv' from 32.000 to 36.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T05.csv' from 33.000 to 37.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T05.csv' from 34.000 to 38.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T05.csv' from 35.000 to 39.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T05.csv' from 36.000 to 40.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T05.csv' from 37.000 to 41.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T05.csv' from 38.000 to 42.000: only 52 samples (required 128).
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T05.csv' from 39.000 to 43.000: original samples = 156, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T05.csv' from 40.000 to 44.000: original samples = 259, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T05.csv' from 41.000 to 45.000: original samples = 364, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T05.csv' from 42.000 to 46.000: original samples = 418, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T05.csv' from 43.000 to 47.000: original samples = 382, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T05.csv' from 44.000 to 48.000: original samples = 331, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T05.csv' from 45.000 to 49.000: original samples = 279, subsampled to 128.
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T01.csv' from 0.000 to 4.000: only 3 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T01.csv' from 1.000 to 5.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T01.csv' from 2.000 to 6.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T01.csv' from 3.000 to 7.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T01.csv' from 4.000 to 8.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T01.csv' from 5.000 to 9.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T01.csv' from 6.000 to 10.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T01.csv' from 7.000 to 11.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T01.csv' from 8.000 to 12.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T01.csv' from 9.000 to 13.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T01.csv' from 10.000 to 14.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T01.csv' from 11.000 to 15.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T01.csv' from 12.000 to 16.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T01.csv' from 13.000 to 17.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T01.csv' from 14.000 to 18.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T01.csv' from 15.000 to 19.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T01.csv' from 16.000 to 20.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T01.csv' from 17.000 to 21.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T01.csv' from 18.000 to 22.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T01.csv' from 19.000 to 23.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T01.csv' from 20.000 to 24.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T01.csv' from 21.000 to 25.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T01.csv' from 22.000 to 26.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T01.csv' from 23.000 to 27.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T01.csv' from 24.000 to 28.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T01.csv' from 25.000 to 29.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T01.csv' from 26.000 to 30.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T01.csv' from 27.000 to 31.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T01.csv' from 28.000 to 32.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T01.csv' from 29.000 to 33.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T01.csv' from 30.000 to 34.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T01.csv' from 31.000 to 35.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T01.csv' from 32.000 to 36.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T01.csv' from 33.000 to 37.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T01.csv' from 34.000 to 38.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T01.csv' from 35.000 to 39.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T01.csv' from 36.000 to 40.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T01.csv' from 37.000 to 41.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T01.csv' from 38.000 to 42.000: only 52 samples (required 128).
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T01.csv' from 39.000 to 43.000: original samples = 156, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T01.csv' from 40.000 to 44.000: original samples = 259, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T01.csv' from 41.000 to 45.000: original samples = 364, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T01.csv' from 42.000 to 46.000: original samples = 418, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T01.csv' from 43.000 to 47.000: original samples = 382, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T01.csv' from 44.000 to 48.000: original samples = 331, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T01.csv' from 45.000 to 49.000: original samples = 279, subsampled to 128.
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T01.csv' from 0.000 to 4.000: only 3 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T01.csv' from 1.000 to 5.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T01.csv' from 2.000 to 6.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T01.csv' from 3.000 to 7.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T01.csv' from 4.000 to 8.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T01.csv' from 5.000 to 9.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T01.csv' from 6.000 to 10.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T01.csv' from 7.000 to 11.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T01.csv' from 8.000 to 12.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T01.csv' from 9.000 to 13.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T01.csv' from 10.000 to 14.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T01.csv' from 11.000 to 15.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T01.csv' from 12.000 to 16.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T01.csv' from 13.000 to 17.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T01.csv' from 14.000 to 18.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T01.csv' from 15.000 to 19.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T01.csv' from 16.000 to 20.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T01.csv' from 17.000 to 21.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T01.csv' from 18.000 to 22.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T01.csv' from 19.000 to 23.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T01.csv' from 20.000 to 24.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T01.csv' from 21.000 to 25.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T01.csv' from 22.000 to 26.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T01.csv' from 23.000 to 27.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T01.csv' from 24.000 to 28.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T01.csv' from 25.000 to 29.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T01.csv' from 26.000 to 30.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T01.csv' from 27.000 to 31.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T01.csv' from 28.000 to 32.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T01.csv' from 29.000 to 33.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T01.csv' from 30.000 to 34.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T01.csv' from 31.000 to 35.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T01.csv' from 32.000 to 36.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T01.csv' from 33.000 to 37.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T01.csv' from 34.000 to 38.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T01.csv' from 35.000 to 39.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T01.csv' from 36.000 to 40.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T01.csv' from 37.000 to 41.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T01.csv' from 38.000 to 42.000: only 52 samples (required 128).
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T01.csv' from 39.000 to 43.000: original samples = 156, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T01.csv' from 40.000 to 44.000: original samples = 259, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T01.csv' from 41.000 to 45.000: original samples = 364, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T01.csv' from 42.000 to 46.000: original samples = 418, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T01.csv' from 43.000 to 47.000: original samples = 382, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T01.csv' from 44.000 to 48.000: original samples = 331, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T01.csv' from 45.000 to 49.000: original samples = 279, subsampled to 128.
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T02.csv' from 0.000 to 4.000: only 3 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T02.csv' from 1.000 to 5.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T02.csv' from 2.000 to 6.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T02.csv' from 3.000 to 7.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T02.csv' from 4.000 to 8.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T02.csv' from 5.000 to 9.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T02.csv' from 6.000 to 10.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T02.csv' from 7.000 to 11.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T02.csv' from 8.000 to 12.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T02.csv' from 9.000 to 13.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T02.csv' from 10.000 to 14.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T02.csv' from 11.000 to 15.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T02.csv' from 12.000 to 16.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T02.csv' from 13.000 to 17.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T02.csv' from 14.000 to 18.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T02.csv' from 15.000 to 19.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T02.csv' from 16.000 to 20.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T02.csv' from 17.000 to 21.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T02.csv' from 18.000 to 22.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T02.csv' from 19.000 to 23.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T02.csv' from 20.000 to 24.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T02.csv' from 21.000 to 25.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T02.csv' from 22.000 to 26.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T02.csv' from 23.000 to 27.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T02.csv' from 24.000 to 28.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T02.csv' from 25.000 to 29.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T02.csv' from 26.000 to 30.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T02.csv' from 27.000 to 31.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T02.csv' from 28.000 to 32.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T02.csv' from 29.000 to 33.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T02.csv' from 30.000 to 34.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T02.csv' from 31.000 to 35.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T02.csv' from 32.000 to 36.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T02.csv' from 33.000 to 37.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T02.csv' from 34.000 to 38.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T02.csv' from 35.000 to 39.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T02.csv' from 36.000 to 40.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T02.csv' from 37.000 to 41.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T02.csv' from 38.000 to 42.000: only 52 samples (required 128).
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T02.csv' from 39.000 to 43.000: original samples = 156, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T02.csv' from 40.000 to 44.000: original samples = 259, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T02.csv' from 41.000 to 45.000: original samples = 364, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T02.csv' from 42.000 to 46.000: original samples = 418, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T02.csv' from 43.000 to 47.000: original samples = 382, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T02.csv' from 44.000 to 48.000: original samples = 331, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T02.csv' from 45.000 to 49.000: original samples = 279, subsampled to 128.
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T05.csv' from 0.000 to 4.000: only 3 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T05.csv' from 1.000 to 5.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T05.csv' from 2.000 to 6.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T05.csv' from 3.000 to 7.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T05.csv' from 4.000 to 8.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T05.csv' from 5.000 to 9.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T05.csv' from 6.000 to 10.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T05.csv' from 7.000 to 11.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T05.csv' from 8.000 to 12.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T05.csv' from 9.000 to 13.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T05.csv' from 10.000 to 14.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T05.csv' from 11.000 to 15.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T05.csv' from 12.000 to 16.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T05.csv' from 13.000 to 17.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T05.csv' from 14.000 to 18.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T05.csv' from 15.000 to 19.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T05.csv' from 16.000 to 20.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T05.csv' from 17.000 to 21.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T05.csv' from 18.000 to 22.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T05.csv' from 19.000 to 23.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T05.csv' from 20.000 to 24.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T05.csv' from 21.000 to 25.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T05.csv' from 22.000 to 26.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T05.csv' from 23.000 to 27.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T05.csv' from 24.000 to 28.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T05.csv' from 25.000 to 29.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T05.csv' from 26.000 to 30.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T05.csv' from 27.000 to 31.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T05.csv' from 28.000 to 32.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T05.csv' from 29.000 to 33.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T05.csv' from 30.000 to 34.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T05.csv' from 31.000 to 35.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T05.csv' from 32.000 to 36.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T05.csv' from 33.000 to 37.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T05.csv' from 34.000 to 38.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T05.csv' from 35.000 to 39.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T05.csv' from 36.000 to 40.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T05.csv' from 37.000 to 41.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T05.csv' from 38.000 to 42.000: only 52 samples (required 128).
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T05.csv' from 39.000 to 43.000: original samples = 156, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T05.csv' from 40.000 to 44.000: original samples = 259, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T05.csv' from 41.000 to 45.000: original samples = 364, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T05.csv' from 42.000 to 46.000: original samples = 418, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T05.csv' from 43.000 to 47.000: original samples = 382, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T05.csv' from 44.000 to 48.000: original samples = 331, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T05.csv' from 45.000 to 49.000: original samples = 279, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T01.csv' from 46.000 to 50.000: original samples = 225, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T01.csv' from 47.000 to 51.000: original samples = 246, subsampled to 128.
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T04.csv' from 0.000 to 4.000: only 3 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T04.csv' from 1.000 to 5.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T04.csv' from 2.000 to 6.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T04.csv' from 3.000 to 7.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T04.csv' from 4.000 to 8.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T04.csv' from 5.000 to 9.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T04.csv' from 6.000 to 10.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T04.csv' from 7.000 to 11.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T04.csv' from 8.000 to 12.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T04.csv' from 9.000 to 13.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T04.csv' from 10.000 to 14.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T04.csv' from 11.000 to 15.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T04.csv' from 12.000 to 16.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T04.csv' from 13.000 to 17.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T04.csv' from 14.000 to 18.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T04.csv' from 15.000 to 19.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T04.csv' from 16.000 to 20.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T04.csv' from 17.000 to 21.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T04.csv' from 18.000 to 22.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T04.csv' from 19.000 to 23.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T04.csv' from 20.000 to 24.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T04.csv' from 21.000 to 25.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T04.csv' from 22.000 to 26.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T04.csv' from 23.000 to 27.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T04.csv' from 24.000 to 28.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T04.csv' from 25.000 to 29.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T04.csv' from 26.000 to 30.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T04.csv' from 27.000 to 31.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T04.csv' from 28.000 to 32.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T04.csv' from 29.000 to 33.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T04.csv' from 30.000 to 34.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T04.csv' from 31.000 to 35.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T04.csv' from 32.000 to 36.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T04.csv' from 33.000 to 37.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T04.csv' from 34.000 to 38.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T04.csv' from 35.000 to 39.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T04.csv' from 36.000 to 40.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T04.csv' from 37.000 to 41.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T04.csv' from 38.000 to 42.000: only 52 samples (required 128).
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T04.csv' from 39.000 to 43.000: original samples = 156, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T04.csv' from 40.000 to 44.000: original samples = 259, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T04.csv' from 41.000 to 45.000: original samples = 364, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T04.csv' from 42.000 to 46.000: original samples = 418, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T04.csv' from 43.000 to 47.000: original samples = 382, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T02.csv' from 46.000 to 50.000: original samples = 225, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T02.csv' from 47.000 to 51.000: original samples = 246, subsampled to 128.
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T03.csv' from 0.000 to 4.000: only 3 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T03.csv' from 1.000 to 5.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T03.csv' from 2.000 to 6.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T03.csv' from 3.000 to 7.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T03.csv' from 4.000 to 8.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T03.csv' from 5.000 to 9.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T03.csv' from 6.000 to 10.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T03.csv' from 7.000 to 11.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T03.csv' from 8.000 to 12.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T03.csv' from 9.000 to 13.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T03.csv' from 10.000 to 14.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T03.csv' from 11.000 to 15.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T03.csv' from 12.000 to 16.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T03.csv' from 13.000 to 17.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T03.csv' from 14.000 to 18.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T03.csv' from 15.000 to 19.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T03.csv' from 16.000 to 20.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T03.csv' from 17.000 to 21.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T03.csv' from 18.000 to 22.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T03.csv' from 19.000 to 23.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T03.csv' from 20.000 to 24.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T03.csv' from 21.000 to 25.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T03.csv' from 22.000 to 26.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T03.csv' from 23.000 to 27.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T03.csv' from 24.000 to 28.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T03.csv' from 25.000 to 29.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T03.csv' from 26.000 to 30.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T03.csv' from 27.000 to 31.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T03.csv' from 28.000 to 32.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T03.csv' from 29.000 to 33.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T03.csv' from 30.000 to 34.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T03.csv' from 31.000 to 35.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T03.csv' from 32.000 to 36.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T03.csv' from 33.000 to 37.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T03.csv' from 34.000 to 38.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T03.csv' from 35.000 to 39.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T03.csv' from 36.000 to 40.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T03.csv' from 37.000 to 41.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T03.csv' from 38.000 to 42.000: only 52 samples (required 128).
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T03.csv' from 39.000 to 43.000: original samples = 156, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T03.csv' from 40.000 to 44.000: original samples = 259, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T03.csv' from 41.000 to 45.000: original samples = 364, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T03.csv' from 42.000 to 46.000: original samples = 418, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T03.csv' from 43.000 to 47.000: original samples = 382, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T01.csv' from 46.000 to 50.000: original samples = 225, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T01.csv' from 47.000 to 51.000: original samples = 246, subsampled to 128.
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T03.csv' from 0.000 to 4.000: only 3 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T03.csv' from 1.000 to 5.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T03.csv' from 2.000 to 6.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T03.csv' from 3.000 to 7.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T03.csv' from 4.000 to 8.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T03.csv' from 5.000 to 9.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T03.csv' from 6.000 to 10.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T03.csv' from 7.000 to 11.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T03.csv' from 8.000 to 12.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T03.csv' from 9.000 to 13.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T03.csv' from 10.000 to 14.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T03.csv' from 11.000 to 15.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T03.csv' from 12.000 to 16.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T03.csv' from 13.000 to 17.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T03.csv' from 14.000 to 18.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T03.csv' from 15.000 to 19.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T03.csv' from 16.000 to 20.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T03.csv' from 17.000 to 21.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T03.csv' from 18.000 to 22.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T03.csv' from 19.000 to 23.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T03.csv' from 20.000 to 24.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T03.csv' from 21.000 to 25.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T03.csv' from 22.000 to 26.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T03.csv' from 23.000 to 27.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T03.csv' from 24.000 to 28.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T03.csv' from 25.000 to 29.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T03.csv' from 26.000 to 30.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T03.csv' from 27.000 to 31.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T03.csv' from 28.000 to 32.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T03.csv' from 29.000 to 33.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T03.csv' from 30.000 to 34.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T03.csv' from 31.000 to 35.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T03.csv' from 32.000 to 36.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T03.csv' from 33.000 to 37.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T03.csv' from 34.000 to 38.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T03.csv' from 35.000 to 39.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T03.csv' from 36.000 to 40.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T03.csv' from 37.000 to 41.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T03.csv' from 38.000 to 42.000: only 52 samples (required 128).
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T03.csv' from 39.000 to 43.000: original samples = 156, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T03.csv' from 40.000 to 44.000: original samples = 259, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T03.csv' from 41.000 to 45.000: original samples = 364, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T03.csv' from 42.000 to 46.000: original samples = 418, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T03.csv' from 43.000 to 47.000: original samples = 382, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T05.csv' from 46.000 to 50.000: original samples = 225, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T05.csv' from 47.000 to 51.000: original samples = 246, subsampled to 128.
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T02.csv' from 0.000 to 4.000: only 3 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T02.csv' from 1.000 to 5.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T02.csv' from 2.000 to 6.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T02.csv' from 3.000 to 7.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T02.csv' from 4.000 to 8.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T02.csv' from 5.000 to 9.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T02.csv' from 6.000 to 10.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T02.csv' from 7.000 to 11.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T02.csv' from 8.000 to 12.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T02.csv' from 9.000 to 13.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T02.csv' from 10.000 to 14.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T02.csv' from 11.000 to 15.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T02.csv' from 12.000 to 16.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T02.csv' from 13.000 to 17.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T02.csv' from 14.000 to 18.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T02.csv' from 15.000 to 19.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T02.csv' from 16.000 to 20.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T02.csv' from 17.000 to 21.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T02.csv' from 18.000 to 22.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T02.csv' from 19.000 to 23.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T02.csv' from 20.000 to 24.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T02.csv' from 21.000 to 25.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T02.csv' from 22.000 to 26.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T02.csv' from 23.000 to 27.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T02.csv' from 24.000 to 28.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T02.csv' from 25.000 to 29.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T02.csv' from 26.000 to 30.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T02.csv' from 27.000 to 31.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T02.csv' from 28.000 to 32.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T02.csv' from 29.000 to 33.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T02.csv' from 30.000 to 34.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T02.csv' from 31.000 to 35.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T02.csv' from 32.000 to 36.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T02.csv' from 33.000 to 37.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T02.csv' from 34.000 to 38.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T02.csv' from 35.000 to 39.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T02.csv' from 36.000 to 40.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T02.csv' from 37.000 to 41.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T02.csv' from 38.000 to 42.000: only 52 samples (required 128).
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T02.csv' from 39.000 to 43.000: original samples = 156, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T02.csv' from 40.000 to 44.000: original samples = 259, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T02.csv' from 41.000 to 45.000: original samples = 364, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T02.csv' from 42.000 to 46.000: original samples = 418, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T02.csv' from 43.000 to 47.000: original samples = 382, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T05.csv' from 46.000 to 50.000: original samples = 225, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T05.csv' from 47.000 to 51.000: original samples = 246, subsampled to 128.
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T04.csv' from 0.000 to 4.000: only 3 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T04.csv' from 1.000 to 5.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T04.csv' from 2.000 to 6.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T04.csv' from 3.000 to 7.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T04.csv' from 4.000 to 8.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T04.csv' from 5.000 to 9.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T04.csv' from 6.000 to 10.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T04.csv' from 7.000 to 11.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T04.csv' from 8.000 to 12.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T04.csv' from 9.000 to 13.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T04.csv' from 10.000 to 14.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T04.csv' from 11.000 to 15.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T04.csv' from 12.000 to 16.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T04.csv' from 13.000 to 17.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T04.csv' from 14.000 to 18.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T04.csv' from 15.000 to 19.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T04.csv' from 16.000 to 20.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T04.csv' from 17.000 to 21.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T04.csv' from 18.000 to 22.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T04.csv' from 19.000 to 23.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T04.csv' from 20.000 to 24.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T04.csv' from 21.000 to 25.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T04.csv' from 22.000 to 26.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T04.csv' from 23.000 to 27.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T04.csv' from 24.000 to 28.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T04.csv' from 25.000 to 29.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T04.csv' from 26.000 to 30.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T04.csv' from 27.000 to 31.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T04.csv' from 28.000 to 32.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T04.csv' from 29.000 to 33.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T04.csv' from 30.000 to 34.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T04.csv' from 31.000 to 35.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T04.csv' from 32.000 to 36.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T04.csv' from 33.000 to 37.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T04.csv' from 34.000 to 38.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T04.csv' from 35.000 to 39.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T04.csv' from 36.000 to 40.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T04.csv' from 37.000 to 41.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T04.csv' from 38.000 to 42.000: only 52 samples (required 128).
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T04.csv' from 39.000 to 43.000: original samples = 156, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T04.csv' from 40.000 to 44.000: original samples = 259, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T04.csv' from 41.000 to 45.000: original samples = 364, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T04.csv' from 42.000 to 46.000: original samples = 418, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T04.csv' from 43.000 to 47.000: original samples = 382, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T03.csv' from 46.000 to 50.000: original samples = 225, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T03.csv' from 47.000 to 51.000: original samples = 246, subsampled to 128.
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T02.csv' from 0.000 to 4.000: only 3 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T02.csv' from 1.000 to 5.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T02.csv' from 2.000 to 6.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T02.csv' from 3.000 to 7.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T02.csv' from 4.000 to 8.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T02.csv' from 5.000 to 9.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T02.csv' from 6.000 to 10.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T02.csv' from 7.000 to 11.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T02.csv' from 8.000 to 12.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T02.csv' from 9.000 to 13.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T02.csv' from 10.000 to 14.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T02.csv' from 11.000 to 15.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T02.csv' from 12.000 to 16.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T02.csv' from 13.000 to 17.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T02.csv' from 14.000 to 18.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T02.csv' from 15.000 to 19.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T02.csv' from 16.000 to 20.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T02.csv' from 17.000 to 21.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T02.csv' from 18.000 to 22.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T02.csv' from 19.000 to 23.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T02.csv' from 20.000 to 24.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T02.csv' from 21.000 to 25.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T02.csv' from 22.000 to 26.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T02.csv' from 23.000 to 27.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T02.csv' from 24.000 to 28.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T02.csv' from 25.000 to 29.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T02.csv' from 26.000 to 30.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T02.csv' from 27.000 to 31.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T02.csv' from 28.000 to 32.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T02.csv' from 29.000 to 33.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T02.csv' from 30.000 to 34.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T02.csv' from 31.000 to 35.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T02.csv' from 32.000 to 36.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T02.csv' from 33.000 to 37.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T02.csv' from 34.000 to 38.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T02.csv' from 35.000 to 39.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T02.csv' from 36.000 to 40.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T02.csv' from 37.000 to 41.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T02.csv' from 38.000 to 42.000: only 52 samples (required 128).
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T02.csv' from 39.000 to 43.000: original samples = 156, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T02.csv' from 40.000 to 44.000: original samples = 259, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T02.csv' from 41.000 to 45.000: original samples = 364, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T02.csv' from 42.000 to 46.000: original samples = 418, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T02.csv' from 43.000 to 47.000: original samples = 382, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T04.csv' from 44.000 to 48.000: original samples = 331, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T04.csv' from 45.000 to 49.000: original samples = 279, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T04.csv' from 46.000 to 50.000: original samples = 225, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T04.csv' from 47.000 to 51.000: original samples = 246, subsampled to 128.
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T04.csv' from 0.000 to 4.000: only 3 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T04.csv' from 1.000 to 5.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T04.csv' from 2.000 to 6.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T04.csv' from 3.000 to 7.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T04.csv' from 4.000 to 8.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T04.csv' from 5.000 to 9.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T04.csv' from 6.000 to 10.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T04.csv' from 7.000 to 11.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T04.csv' from 8.000 to 12.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T04.csv' from 9.000 to 13.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T04.csv' from 10.000 to 14.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T04.csv' from 11.000 to 15.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T04.csv' from 12.000 to 16.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T04.csv' from 13.000 to 17.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T04.csv' from 14.000 to 18.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T04.csv' from 15.000 to 19.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T04.csv' from 16.000 to 20.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T04.csv' from 17.000 to 21.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T04.csv' from 18.000 to 22.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T04.csv' from 19.000 to 23.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T04.csv' from 20.000 to 24.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T04.csv' from 21.000 to 25.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T04.csv' from 22.000 to 26.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T04.csv' from 23.000 to 27.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T04.csv' from 24.000 to 28.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T04.csv' from 25.000 to 29.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T04.csv' from 26.000 to 30.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T04.csv' from 27.000 to 31.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T04.csv' from 28.000 to 32.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T04.csv' from 29.000 to 33.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T04.csv' from 30.000 to 34.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T04.csv' from 31.000 to 35.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T04.csv' from 32.000 to 36.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T04.csv' from 33.000 to 37.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T04.csv' from 34.000 to 38.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T04.csv' from 35.000 to 39.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T04.csv' from 36.000 to 40.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T04.csv' from 37.000 to 41.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T04.csv' from 38.000 to 42.000: only 52 samples (required 128).
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T04.csv' from 39.000 to 43.000: original samples = 156, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T04.csv' from 40.000 to 44.000: original samples = 259, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T04.csv' from 41.000 to 45.000: original samples = 364, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T02.csv' from 44.000 to 48.000: original samples = 331, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T02.csv' from 45.000 to 49.000: original samples = 279, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T02.csv' from 46.000 to 50.000: original samples = 225, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T02.csv' from 47.000 to 51.000: original samples = 246, subsampled to 128.
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T03.csv' from 0.000 to 4.000: only 3 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T03.csv' from 1.000 to 5.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T03.csv' from 2.000 to 6.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T03.csv' from 3.000 to 7.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T03.csv' from 4.000 to 8.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T03.csv' from 5.000 to 9.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T03.csv' from 6.000 to 10.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T03.csv' from 7.000 to 11.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T03.csv' from 8.000 to 12.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T03.csv' from 9.000 to 13.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T03.csv' from 10.000 to 14.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T03.csv' from 11.000 to 15.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T03.csv' from 12.000 to 16.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T03.csv' from 13.000 to 17.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T03.csv' from 14.000 to 18.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T03.csv' from 15.000 to 19.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T03.csv' from 16.000 to 20.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T03.csv' from 17.000 to 21.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T03.csv' from 18.000 to 22.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T03.csv' from 19.000 to 23.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T03.csv' from 20.000 to 24.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T03.csv' from 21.000 to 25.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T03.csv' from 22.000 to 26.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T03.csv' from 23.000 to 27.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T03.csv' from 24.000 to 28.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T03.csv' from 25.000 to 29.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T03.csv' from 26.000 to 30.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T03.csv' from 27.000 to 31.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T03.csv' from 28.000 to 32.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T03.csv' from 29.000 to 33.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T03.csv' from 30.000 to 34.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T03.csv' from 31.000 to 35.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T03.csv' from 32.000 to 36.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T03.csv' from 33.000 to 37.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T03.csv' from 34.000 to 38.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T03.csv' from 35.000 to 39.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T03.csv' from 36.000 to 40.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T03.csv' from 37.000 to 41.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T03.csv' from 38.000 to 42.000: only 52 samples (required 128).
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T03.csv' from 39.000 to 43.000: original samples = 156, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T03.csv' from 40.000 to 44.000: original samples = 259, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T03.csv' from 41.000 to 45.000: original samples = 364, subsampled to 128.
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T01.csv' from 0.000 to 4.000: only 3 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T01.csv' from 1.000 to 5.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T01.csv' from 2.000 to 6.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T01.csv' from 3.000 to 7.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T01.csv' from 4.000 to 8.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T01.csv' from 5.000 to 9.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T01.csv' from 6.000 to 10.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T01.csv' from 7.000 to 11.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T01.csv' from 8.000 to 12.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T01.csv' from 9.000 to 13.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T01.csv' from 10.000 to 14.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T01.csv' from 11.000 to 15.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T01.csv' from 12.000 to 16.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T01.csv' from 13.000 to 17.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T01.csv' from 14.000 to 18.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T01.csv' from 15.000 to 19.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T01.csv' from 16.000 to 20.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T01.csv' from 17.000 to 21.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T01.csv' from 18.000 to 22.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T01.csv' from 19.000 to 23.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T01.csv' from 20.000 to 24.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T01.csv' from 21.000 to 25.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T01.csv' from 22.000 to 26.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T01.csv' from 23.000 to 27.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T01.csv' from 24.000 to 28.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T01.csv' from 25.000 to 29.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T01.csv' from 26.000 to 30.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T01.csv' from 27.000 to 31.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T01.csv' from 28.000 to 32.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T01.csv' from 29.000 to 33.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T01.csv' from 30.000 to 34.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T01.csv' from 31.000 to 35.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T01.csv' from 32.000 to 36.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T01.csv' from 33.000 to 37.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T01.csv' from 34.000 to 38.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T01.csv' from 35.000 to 39.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T01.csv' from 36.000 to 40.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T01.csv' from 37.000 to 41.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T01.csv' from 38.000 to 42.000: only 52 samples (required 128).
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T01.csv' from 39.000 to 43.000: original samples = 156, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T01.csv' from 40.000 to 44.000: original samples = 259, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T01.csv' from 41.000 to 45.000: original samples = 364, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T01.csv' from 42.000 to 46.000: original samples = 418, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T01.csv' from 43.000 to 47.000: original samples = 382, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T01.csv' from 44.000 to 48.000: original samples = 331, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T01.csv' from 45.000 to 49.000: original samples = 279, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T04.csv' from 42.000 to 46.000: original samples = 418, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T04.csv' from 43.000 to 47.000: original samples = 382, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T04.csv' from 44.000 to 48.000: original samples = 331, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T04.csv' from 45.000 to 49.000: original samples = 279, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T04.csv' from 46.000 to 50.000: original samples = 225, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T04.csv' from 47.000 to 51.000: original samples = 246, subsampled to 128.
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T02.csv' from 0.000 to 4.000: only 3 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T02.csv' from 1.000 to 5.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T02.csv' from 2.000 to 6.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T02.csv' from 3.000 to 7.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T02.csv' from 4.000 to 8.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T02.csv' from 5.000 to 9.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T02.csv' from 6.000 to 10.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T02.csv' from 7.000 to 11.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T02.csv' from 8.000 to 12.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T02.csv' from 9.000 to 13.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T02.csv' from 10.000 to 14.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T02.csv' from 11.000 to 15.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T02.csv' from 12.000 to 16.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T02.csv' from 13.000 to 17.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T02.csv' from 14.000 to 18.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T02.csv' from 15.000 to 19.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T02.csv' from 16.000 to 20.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T02.csv' from 17.000 to 21.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T02.csv' from 18.000 to 22.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T02.csv' from 19.000 to 23.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T02.csv' from 20.000 to 24.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T02.csv' from 21.000 to 25.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T02.csv' from 22.000 to 26.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T02.csv' from 23.000 to 27.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T02.csv' from 24.000 to 28.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T02.csv' from 25.000 to 29.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T02.csv' from 26.000 to 30.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T02.csv' from 27.000 to 31.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T02.csv' from 28.000 to 32.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T02.csv' from 29.000 to 33.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T02.csv' from 30.000 to 34.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T02.csv' from 31.000 to 35.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T02.csv' from 32.000 to 36.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T02.csv' from 33.000 to 37.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T02.csv' from 34.000 to 38.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T02.csv' from 35.000 to 39.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T02.csv' from 36.000 to 40.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T02.csv' from 37.000 to 41.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T02.csv' from 38.000 to 42.000: only 52 samples (required 128).
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T02.csv' from 39.000 to 43.000: original samples = 156, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T02.csv' from 44.000 to 48.000: original samples = 331, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T02.csv' from 45.000 to 49.000: original samples = 279, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T02.csv' from 46.000 to 50.000: original samples = 225, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T02.csv' from 47.000 to 51.000: original samples = 246, subsampled to 128.
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T01.csv' from 0.000 to 4.000: only 3 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T01.csv' from 1.000 to 5.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T01.csv' from 2.000 to 6.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T01.csv' from 3.000 to 7.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T01.csv' from 4.000 to 8.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T01.csv' from 5.000 to 9.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T01.csv' from 6.000 to 10.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T01.csv' from 7.000 to 11.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T01.csv' from 8.000 to 12.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T01.csv' from 9.000 to 13.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T01.csv' from 10.000 to 14.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T01.csv' from 11.000 to 15.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T01.csv' from 12.000 to 16.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T01.csv' from 13.000 to 17.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T01.csv' from 14.000 to 18.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T01.csv' from 15.000 to 19.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T01.csv' from 16.000 to 20.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T01.csv' from 17.000 to 21.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T01.csv' from 18.000 to 22.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T01.csv' from 19.000 to 23.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T01.csv' from 20.000 to 24.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T01.csv' from 21.000 to 25.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T01.csv' from 22.000 to 26.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T01.csv' from 23.000 to 27.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T01.csv' from 24.000 to 28.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T01.csv' from 25.000 to 29.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T01.csv' from 26.000 to 30.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T01.csv' from 27.000 to 31.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T01.csv' from 28.000 to 32.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T01.csv' from 29.000 to 33.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T01.csv' from 30.000 to 34.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T01.csv' from 31.000 to 35.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T01.csv' from 32.000 to 36.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T01.csv' from 33.000 to 37.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T01.csv' from 34.000 to 38.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T01.csv' from 35.000 to 39.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T01.csv' from 36.000 to 40.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T01.csv' from 37.000 to 41.000: only 0 samples (required 128).
+[DEBUG] Discarding window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T01.csv' from 38.000 to 42.000: only 52 samples (required 128).
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T01.csv' from 39.000 to 43.000: original samples = 156, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T01.csv' from 40.000 to 44.000: original samples = 259, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T01.csv' from 41.000 to 45.000: original samples = 364, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T01.csv' from 46.000 to 50.000: original samples = 225, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T01.csv' from 47.000 to 51.000: original samples = 246, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T05.csv' from 46.000 to 50.000: original samples = 225, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T05.csv' from 47.000 to 51.000: original samples = 246, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T03.csv' from 44.000 to 48.000: original samples = 331, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T03.csv' from 45.000 to 49.000: original samples = 279, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T03.csv' from 46.000 to 50.000: original samples = 225, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T03.csv' from 47.000 to 51.000: original samples = 246, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T03.csv' from 44.000 to 48.000: original samples = 331, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T03.csv' from 45.000 to 49.000: original samples = 279, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T03.csv' from 46.000 to 50.000: original samples = 225, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T03.csv' from 47.000 to 51.000: original samples = 246, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T04.csv' from 44.000 to 48.000: original samples = 331, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T04.csv' from 45.000 to 49.000: original samples = 279, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T04.csv' from 46.000 to 50.000: original samples = 225, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T04.csv' from 47.000 to 51.000: original samples = 246, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T04.csv' from 46.000 to 50.000: original samples = 225, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T04.csv' from 47.000 to 51.000: original samples = 246, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T02.csv' from 40.000 to 44.000: original samples = 259, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T02.csv' from 41.000 to 45.000: original samples = 364, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T02.csv' from 42.000 to 46.000: original samples = 418, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T02.csv' from 43.000 to 47.000: original samples = 382, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T02.csv' from 44.000 to 48.000: original samples = 331, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T02.csv' from 45.000 to 49.000: original samples = 279, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T02.csv' from 46.000 to 50.000: original samples = 225, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A11T02.csv' from 47.000 to 51.000: original samples = 246, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T03.csv' from 42.000 to 46.000: original samples = 418, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T03.csv' from 43.000 to 47.000: original samples = 382, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T03.csv' from 44.000 to 48.000: original samples = 331, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T03.csv' from 45.000 to 49.000: original samples = 279, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T03.csv' from 46.000 to 50.000: original samples = 225, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A13T03.csv' from 47.000 to 51.000: original samples = 246, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T05.csv' from 46.000 to 50.000: original samples = 225, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A14T05.csv' from 47.000 to 51.000: original samples = 246, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T01.csv' from 42.000 to 46.000: original samples = 418, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T01.csv' from 43.000 to 47.000: original samples = 382, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T01.csv' from 44.000 to 48.000: original samples = 331, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T01.csv' from 45.000 to 49.000: original samples = 279, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T01.csv' from 46.000 to 50.000: original samples = 225, subsampled to 128.
+[DEBUG] Accepted window in file '/home/abheekp/Torch_tflite/data/smartfallmm/young/accelerometer/watch/S45A12T01.csv' from 47.000 to 51.000: original samples = 246, subsampled to 128.
+[DEBUG] make_dataset => key=labels, #items=158
+[DEBUG] make_dataset => key=accelerometer, #items=158
+[DEBUG] make_dataset => key=skeleton, #items=158
+[INFO] Loaded student from Fold3_NoDistill_best_loss_weights.pth.
+[INFO] Loaded PyTorch weights from Fold3_NoDistill_best_loss_weights.pth
+[INFO] Loaded TFLite from fall_time2vec_transformer.tflite
+[PyTorch] logits: [[-3.8597648  3.7499146]]
+[TFLite ] logits: [[-3.8597648  3.7499146]]
+[COMPARE] Max absolute difference: 0.000000
+[INFO] Loaded PyTorch weights from Fold3_NoDistill_best_loss_weights.pth
+[INFO] Loaded TFLite from fall_time2vec_transformer.tflite
+[PyTorch] logits: [[-3.8597653  3.749915 ]]
+[TFLite ] logits: [[-3.8597648  3.7499146]]
+[COMPARE] Max absolute difference: 0.000000
+[INFO] Loaded weights from: Fold3_NoDistill_best_loss_weights.pth
+[INFO] Exported TFLite model => fall_time2vec_transformer.tflite
+[INFO] Loaded PyTorch weights from Fold3_NoDistill_best_loss_weights.pth
+[INFO] Loaded TFLite from fall_time2vec_transformer.tflite
+[PyTorch] logits: [[-3.8597653  3.749915 ]]
+[TFLite ] logits: [[-3.8597648  3.7499146]]
+[COMPARE] Max absolute difference: 0.000000
+[INFO] Loaded weights from: Fold3_NoDistill_best_loss_weights.pth
+[INFO] Exported TFLite model => fall_time2vec_transformer.tflite
+[INFO] Loaded PyTorch weights from Fold3_NoDistill_best_loss_weights.pth
+[INFO] Loaded TFLite from fall_time2vec_transformer.tflite
+[PyTorch] logits: [[-3.8597653  3.749915 ]]
+[TFLite ] logits: [[-3.8597648  3.7499146]]
+[COMPARE] Max absolute difference: 0.000000
