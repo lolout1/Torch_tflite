@@ -40,12 +40,12 @@ class FallTime2VecTransformer(nn.Module):
     """
 
     def __init__(self,
-                 feat_dim=11,  # total dimension after we cat time2vec + accel
+                 feat_dim=19,  # total dimension after we cat time2vec + accel
                  d_model=64,
                  nhead=4,
-                 num_layers=2,
+                 num_layers=3,
                  num_classes=2,
-                 time2vec_dim=8,    # we'll do 8-D time2vec
+                 time2vec_dim=16,    # we'll do 8-D time2vec
                  dropout=0.1,
                  dim_feedforward=128):
         super().__init__()
