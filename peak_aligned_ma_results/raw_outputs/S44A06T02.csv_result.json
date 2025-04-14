@@ -1,0 +1,32 @@
+{
+  "file_path": "data/smartfallmm/young/accelerometer/watch/S44A06T02.csv",
+  "activity_info": {
+    "subject_id": 44,
+    "activity_id": 6,
+    "trial_num": 2,
+    "is_fall": false,
+    "filename": "S44A06T02.csv"
+  },
+  "num_windows": 14,
+  "fall_windows": 1,
+  "non_fall_windows": 13,
+  "is_fall_file": false,
+  "correct_classification": true,
+  "average_probability": 0.19994657892136547,
+  "peaks": [
+    12,
+    156,
+    281,
+    428,
+    563,
+    688,
+    794,
+    924,
+    1039,
+    1170,
+    1270,
+    1373,
+    1504,
+    1605
+  ]
+}

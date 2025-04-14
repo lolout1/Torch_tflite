@@ -1,0 +1,20 @@
+{
+  "file_path": "data/smartfallmm/young/accelerometer/watch/S42A05T02.csv",
+  "activity_info": {
+    "subject_id": 42,
+    "activity_id": 5,
+    "trial_num": 2,
+    "is_fall": false,
+    "filename": "S42A05T02.csv"
+  },
+  "num_windows": 1,
+  "fall_windows": 1,
+  "non_fall_windows": 0,
+  "is_fall_file": true,
+  "correct_classification": false,
+  "average_probability": 0.9796605110168457,
+  "peaks": [
+    58,
+    167
+  ]
+}

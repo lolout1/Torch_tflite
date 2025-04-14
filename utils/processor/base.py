@@ -197,4 +197,3 @@ class Processor(nn.Module):
             return windows
         else:
             return data
-

@@ -134,4 +134,3 @@ def prepare_smartfallmm(arg):
         time2vec_dim=arg.dataset_args.get('time2vec_dim',8)
     )
     return builder
-
